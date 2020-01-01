@@ -1,5 +1,5 @@
 # TowerOfHanoi
-<img width="1524" alt="hanoi-img" src="https://user-images.githubusercontent.com/51415392/71641686-53011680-2ce3-11ea-8c19-ad0d8412feff.png">
+<img width="1518" alt="Hanoi" src="https://user-images.githubusercontent.com/51415392/71642411-fd7e3700-2ced-11ea-827b-49168c699c55.png">
 
 ハノイの塔を作成して遊ぶ。
 
