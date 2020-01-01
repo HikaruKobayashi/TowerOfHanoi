@@ -1,6 +1,7 @@
 .container {
-  width: 1000px;
+  width: 500px;
   height: 800px;
+  float:left;
 }
 .box {
   height: 40px;
@@ -61,4 +62,22 @@
 }
 .drag {
   z-index:1010
+}
+
+.rod {
+  width: 20px;
+  height: 400px;
+  background-color: rgba(218, 129, 13, 0.76);
+  border-radius: 5px 5px 0 0;
+  position: absolute;
+}
+.center {
+  right: 900px;
+}
+.right {
+  right: 400px;
+
+}
+.left{
+  left: 250px;
 }
